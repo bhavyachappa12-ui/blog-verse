@@ -1,4 +1,5 @@
 console.log("Hello World,Bhavya")
+const c=5;
 
 let name = "Bhavya Chappa";
 console.log(name)

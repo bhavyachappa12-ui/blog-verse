@@ -37,15 +37,6 @@ switch(day){
         break;                  
 }
 
-//let num=5;
-//for(let i=1;i<=num;i++){
-  //  console.log(i)
-//}
-
-//let n=5
-//while(n<5){
-  //  console.log(n)
-//}
 
 let colors=["Red","Green","Blue"]
 for(let i=0;i<colors.length;i++){
