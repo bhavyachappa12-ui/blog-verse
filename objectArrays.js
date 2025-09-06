@@ -2,12 +2,12 @@
   //  name:"Bhavya",
     age:19
 //}
-console.log(person.name)
-console.log(person["age"])
+// console.log(person.name)
+// console.log(person["age"])
 
-const {name,age}=person; //Destructing assignment
-console.log(name)
-console.log(age)
+// const {name,age}=person; //Destructing assignment
+// console.log(name)
+// console.log(age)
 
 let fruits=["apple","banana","mango"]
 console.log(fruits[0])
